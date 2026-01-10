@@ -1,6 +1,6 @@
 ## What I can Build 🛠
-- BackEnd Web apps
-- Restfull API
+- BackEnd Monolithic Web apps
+- Scalable Restfull API Gateways
 
 ## My Tech Stack 🔋
 | BackEnd | DataBase | DevOps | FrontEnd |

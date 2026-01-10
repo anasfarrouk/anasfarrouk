@@ -8,7 +8,7 @@
 | Python | SQL | Linux | Html | 
 | Django | MySQL | Bash | CSS | 
 | FastAPI | PostgreSQL | Vim | Javascript | 
-| DjangoRestFramework | SQLite | | |
+| DajngoRest | SQLite | Git | |
 
 <!--
 **anasfarrouk/anasfarrouk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

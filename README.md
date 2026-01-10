@@ -3,12 +3,12 @@
 - Restfull API
 
 ## My Tech Stack 🔋
-| BackEnd | DevOps | FrontEnd | DataBase |
+| BackEnd | DataBase | DevOps | FrontEnd |
 | --- | --- | --- | --- |
-| Python | Linux | Html | SQL |
-| Django | Bash | CSS | MySQL |
-| FastAPI | Vim | Javascript | PostgreSQL |
-| DjangoRestFramework | | | SQLite |
+| Python | SQL | Linux | Html | 
+| Django | MySQL | Bash | CSS | 
+| FastAPI | PostgreSQL | Vim | Javascript | 
+| DjangoRestFramework | SQLite | | |
 
 <!--
 **anasfarrouk/anasfarrouk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

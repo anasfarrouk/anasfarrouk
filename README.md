@@ -1,3 +1,8 @@
+## Hi There 👋
+I'm currently working on my business. But I'm open for freelance opportunities.
+If you have any project in mind, please contact me through my email : 
+projects@arkanak.com 
+
 ## What I can Build 🛠
 - BackEnd Monolithic Web apps
 - Scalable Restfull API Gateways

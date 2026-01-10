@@ -1,4 +1,14 @@
-## Hi there 👋
+## What I can Build 🛠
+- BackEnd Web apps
+- Restfull API
+
+## My Tech Stack 🔋
+| BackEnd | DevOps | FrontEnd | DataBase |
+| --- | --- | --- | --- |
+| Python | Linux | Html | SQL |
+| Django | Bash | CSS | MySQL |
+| FastAPI | Vim | Javascript | PostgreSQL |
+| DjangoRestFramework | | | SQLite |
 
 <!--
 **anasfarrouk/anasfarrouk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

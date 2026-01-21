@@ -4,7 +4,7 @@ If you have any project in mind, please contact me through my email :
 projects@arkanak.com 
 
 ## What I can Build 🛠
-- Data-heavy Web apps
+- Complex Data-intensive Web apps
 - Scalable Restfull API Gateways
 
 ## My Tech Stack 🔋

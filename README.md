@@ -14,8 +14,9 @@ projects@arkanak.com
 | Django | MySQL | Bash | CSS | 
 | FastAPI | PostgreSQL | Vim | Javascript | 
 | DajngoRest | SQLite | Git | |
-| | | Container | |
-
+| | | Docker | |
+| | | Docker-Compose | |
+| | | nginx | |
 <!--
 **anasfarrouk/anasfarrouk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

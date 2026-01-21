@@ -16,7 +16,7 @@ projects@arkanak.com
 | DajngoRest | SQLite | Git | |
 | | | Docker | |
 | | | Docker-Compose | |
-| | | nginx | |
+| | | Nginx | |
 <!--
 **anasfarrouk/anasfarrouk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

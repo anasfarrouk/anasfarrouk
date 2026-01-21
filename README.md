@@ -4,7 +4,7 @@ If you have any project in mind, please contact me through my email :
 projects@arkanak.com 
 
 ## What I can Build 🛠
-- BackEnd Monolithic Web apps
+- Data-heavy Web apps
 - Scalable Restfull API Gateways
 
 ## My Tech Stack 🔋
@@ -14,6 +14,7 @@ projects@arkanak.com
 | Django | MySQL | Bash | CSS | 
 | FastAPI | PostgreSQL | Vim | Javascript | 
 | DajngoRest | SQLite | Git | |
+| | | Container | |
 
 <!--
 **anasfarrouk/anasfarrouk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

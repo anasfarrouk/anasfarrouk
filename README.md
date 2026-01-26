@@ -1,7 +1,6 @@
 ## Hi There 👋
 I'm currently working on my business. But I'm open for freelance opportunities.
-If you have any project in mind, please contact me through my email : 
-projects@arkanak.com 
+If you have any project in mind, please contact me through my email.
 
 ## What I can Build 🛠
 - Complex Data-intensive Web apps

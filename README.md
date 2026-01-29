@@ -2,9 +2,13 @@
 I'm currently working on my business. But I'm open for freelance opportunities.
 If you have any project in mind, please contact me through my email.
 
-## What I can Build 🛠
-- Complex Data-intensive Web apps
-- Scalable Restfull API Gateways
+## My Services 🛠
+- Building Saas web apps.
+- Building Microservices.
+- Backend Performance Optimization.
+- Stripe Integration.
+- Containerization.
+- VPS/Linux Setup & Configuration.
 
 ## My Tech Stack 🔋
 | BackEnd | DataBase | DevOps | FrontEnd |

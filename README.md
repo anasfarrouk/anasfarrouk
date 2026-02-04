@@ -3,7 +3,7 @@ I'm currently working on my business. But I'm open for freelance opportunities.
 If you have any project in mind, please contact me through my email.
 
 ## My Services 🛠
-- Building Saas web apps.
+- Building Saas apps.
 - Building Microservices.
 - Backend Performance Optimization.
 - Stripe Integration.
@@ -16,7 +16,7 @@ If you have any project in mind, please contact me through my email.
 | Python | SQL | Linux | Html | 
 | Django | MySQL | Bash | CSS | 
 | FastAPI | PostgreSQL | Vim | Javascript | 
-| DajngoRest | SQLite | Git | |
+| Dajngo Rest | SQLite | Git | |
 | | | Docker | |
 | | | Docker Compose | |
 | | | Nginx | |

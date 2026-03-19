@@ -14,9 +14,9 @@ If you have any project in mind, please contact me through my email.
 | BackEnd | DataBase | DevOps | FrontEnd |
 | --- | --- | --- | --- |
 | Python | SQL | Linux | Html | 
-| Django | MySQL | Bash | CSS | 
-| FastAPI | PostgreSQL | Vim | Javascript | 
-| Dajngo Rest | SQLite | Git | |
+| Django | SQLModel | Bash | CSS | 
+| FastAPI | | Vim | Javascript | 
+| Dajngo Rest | | Git | |
 | | | Docker | |
 | | | Docker Compose | |
 | | | Nginx | |
